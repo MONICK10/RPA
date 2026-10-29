@@ -16,7 +16,7 @@ services:
     # $PORT is assigned by Render; binding 0.0.0.0 makes the app reachable
     # outside the container. headless stops Streamlit trying to open a browser.
     startCommand: >
-      streamlit run app.py
+      python -m streamlit run app.py
       --server.port $PORT
       --server.address 0.0.0.0
       --server.headless true
