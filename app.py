@@ -112,6 +112,9 @@ html, body, [class*="css"] {
 .block-container { max-width: 1120px; padding-top: 2rem; padding-bottom: 4rem; }
 
 h1, h2, h3, h4 { color: var(--text); font-weight: 650; letter-spacing: -0.2px; }
+/* the screen-1 page title wraps to two lines at 1120px — hold it to a
+   readable measure and tighten the leading so the wrap looks deliberate */
+.rx-page-title { max-width: 28ch; line-height: 1.15; margin-bottom: 0.25rem; }
 p, li, label, div { color: var(--text); }
 .rx-mute { color: var(--text-mute); font-size: 13px; }
 .rx-faint { color: var(--text-faint); font-size: 12.5px; }
@@ -388,7 +391,10 @@ def _run_pipeline_with_progress(jd_sel: dict, resume_sel: dict, company: str) ->
 
 
 def render_screen1() -> None:
-    st.markdown("<h1>Find out if you're ready.</h1>", unsafe_allow_html=True)
+    st.markdown(
+        '<h1 class="rx-page-title">Intelligent Resume Screening and Candidate Shortlisting</h1>',
+        unsafe_allow_html=True,
+    )
     st.markdown(
         '<p class="rx-body rx-mute">Upload a job description and your resume. We\'ll show you exactly what\'s missing.</p>',
         unsafe_allow_html=True,
