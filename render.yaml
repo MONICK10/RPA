@@ -1,0 +1,28 @@
+# Render blueprint — Radix Talent Match (Streamlit UI).
+#
+# Streamlit needs one long-lived process holding a WebSocket open per viewer,
+# so it deploys as a Render Web Service, not a static site or a function.
+#
+# Deploy: Render dashboard -> New -> Blueprint -> point at this repo.
+# Then set GROQ_API_KEY in the service's Environment tab (it is marked
+# sync: false below so the secret never lives in this file).
+
+services:
+  - type: web
+    name: radix-talent-match
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    # $PORT is assigned by Render; binding 0.0.0.0 makes the app reachable
+    # outside the container. headless stops Streamlit trying to open a browser.
+    startCommand: >
+      streamlit run app.py
+      --server.port $PORT
+      --server.address 0.0.0.0
+      --server.headless true
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12.7
+      # Set this in the dashboard, not here.
+      - key: GROQ_API_KEY
+        sync: false

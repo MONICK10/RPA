@@ -1,0 +1,6372 @@
+{
+  "Acko General Insurance Limited": {
+    "company": "Acko General Insurance Limited",
+    "skillsets": {
+      "COD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "DSA": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "OOD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 4,
+        "band": "AP",
+        "raw": "4-AP"
+      },
+      "CLOUD": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SQL": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SWE": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SYSD": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "NETW": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "OS": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      }
+    }
+  },
+  "Barclays PLC": {
+    "company": "Barclays PLC",
+    "skillsets": {
+      "COD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "DSA": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "OOD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "AI": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "CLOUD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SQL": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SWE": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SYSD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "NETW": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "OS": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      }
+    }
+  },
+  "Blink Commerce Private Limited": {
+    "company": "Blink Commerce Private Limited",
+    "skillsets": {
+      "COD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "DSA": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "OOD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 4,
+        "band": "AP",
+        "raw": "4-AP"
+      },
+      "CLOUD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SQL": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SWE": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SYSD": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "NETW": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "OS": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      }
+    }
+  },
+  "Cloudera Data Platform India Private Limited": {
+    "company": "Cloudera Data Platform India Private Limited",
+    "skillsets": {
+      "COD": {
+        "required_level": 8,
+        "band": "AS",
+        "raw": "8-AS"
+      },
+      "DSA": {
+        "required_level": 8,
+        "band": "AS",
+        "raw": "8-AS"
+      },
+      "OOD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "CLOUD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SQL": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SWE": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SYSD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "NETW": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "OS": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      }
+    }
+  },
+  "Cognizant Technology Solutions Corporation": {
+    "company": "Cognizant Technology Solutions Corporation",
+    "skillsets": {
+      "COD": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "DSA": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "OOD": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "APTI": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "COMM": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "AI": {
+        "required_level": 3,
+        "band": "CU",
+        "raw": "3-CU"
+      },
+      "CLOUD": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SQL": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SWE": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SYSD": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "NETW": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "OS": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      }
+    }
+  },
+  "Darwinbox Digital Solutions Private Limited": {
+    "company": "Darwinbox Digital Solutions Private Limited",
+    "skillsets": {
+      "COD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "DSA": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "OOD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 4,
+        "band": "AP",
+        "raw": "4-AP"
+      },
+      "CLOUD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SQL": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SWE": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SYSD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "NETW": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "OS": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      }
+    }
+  },
+  "DevRev Cloud India Private Limited": {
+    "company": "DevRev Cloud India Private Limited",
+    "skillsets": {
+      "COD": {
+        "required_level": 8,
+        "band": "AS",
+        "raw": "8-AS"
+      },
+      "DSA": {
+        "required_level": 8,
+        "band": "AS",
+        "raw": "8-AS"
+      },
+      "OOD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "CLOUD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SQL": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SWE": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SYSD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "NETW": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "OS": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      }
+    }
+  },
+  "Dunzo Digital Private Limited": {
+    "company": "Dunzo Digital Private Limited",
+    "skillsets": {
+      "COD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "DSA": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "OOD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 4,
+        "band": "AP",
+        "raw": "4-AP"
+      },
+      "CLOUD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SQL": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SWE": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SYSD": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "NETW": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "OS": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      }
+    }
+  },
+  "Epifi Technologies Private Limited": {
+    "company": "Epifi Technologies Private Limited",
+    "skillsets": {
+      "COD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "DSA": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "OOD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "CLOUD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SQL": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SWE": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SYSD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "NETW": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "OS": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      }
+    }
+  },
+  "Even Healthcare Private Limited": {
+    "company": "Even Healthcare Private Limited",
+    "skillsets": {
+      "COD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "DSA": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "OOD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 4,
+        "band": "AP",
+        "raw": "4-AP"
+      },
+      "CLOUD": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SQL": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SWE": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SYSD": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "NETW": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "OS": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      }
+    }
+  },
+  "FLAM Gaming Private Limited": {
+    "company": "FLAM Gaming Private Limited",
+    "skillsets": {
+      "COD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "DSA": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "OOD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 4,
+        "band": "AP",
+        "raw": "4-AP"
+      },
+      "CLOUD": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SQL": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "SWE": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SYSD": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "NETW": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "OS": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      }
+    }
+  },
+  "Flipkart Internet Private Limited": {
+    "company": "Flipkart Internet Private Limited",
+    "skillsets": {
+      "COD": {
+        "required_level": 8,
+        "band": "AS",
+        "raw": "8-AS"
+      },
+      "DSA": {
+        "required_level": 8,
+        "band": "AS",
+        "raw": "8-AS"
+      },
+      "OOD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "CLOUD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SQL": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SWE": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SYSD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "NETW": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "OS": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      }
+    }
+  },
+  "Fractal Analytics Private Limited": {
+    "company": "Fractal Analytics Private Limited",
+    "skillsets": {
+      "COD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "DSA": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "OOD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "CLOUD": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SQL": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SWE": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SYSD": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "NETW": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "OS": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      }
+    }
+  },
+  "Google LLC (Subsidiary of Alphabet Inc.)": {
+    "company": "Google LLC (Subsidiary of Alphabet Inc.)",
+    "skillsets": {
+      "COD": {
+        "required_level": 9,
+        "band": "EV",
+        "raw": "9-EV"
+      },
+      "DSA": {
+        "required_level": 9,
+        "band": "EV",
+        "raw": "9-EV"
+      },
+      "OOD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "CLOUD": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SQL": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SWE": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SYSD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "NETW": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "OS": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      }
+    }
+  },
+  "HyperVerge Technologies Private Limited": {
+    "company": "HyperVerge Technologies Private Limited",
+    "skillsets": {
+      "COD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "DSA": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "OOD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "CLOUD": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SQL": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SWE": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SYSD": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "NETW": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "OS": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      }
+    }
+  },
+  "Increff Technologies Private Limited": {
+    "company": "Increff Technologies Private Limited",
+    "skillsets": {
+      "COD": {
+        "required_level": 8,
+        "band": "AS",
+        "raw": "8-AS"
+      },
+      "DSA": {
+        "required_level": 8,
+        "band": "AS",
+        "raw": "8-AS"
+      },
+      "OOD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "CLOUD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SQL": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SWE": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SYSD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "NETW": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "OS": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      }
+    }
+  },
+  "International Business Machines Corporation": {
+    "company": "International Business Machines Corporation",
+    "skillsets": {
+      "COD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "DSA": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "OOD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "AI": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "CLOUD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SQL": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SWE": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SYSD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "NETW": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "OS": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      }
+    }
+  },
+  "Juspay Technologies Private Limited": {
+    "company": "Juspay Technologies Private Limited",
+    "skillsets": {
+      "COD": {
+        "required_level": 8,
+        "band": "AS",
+        "raw": "8-AS"
+      },
+      "DSA": {
+        "required_level": 8,
+        "band": "AS",
+        "raw": "8-AS"
+      },
+      "OOD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "CLOUD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SQL": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SWE": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SYSD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "NETW": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "OS": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      }
+    }
+  },
+  "KALVI CAREER EDUCATION PRIVATE LIMITED": {
+    "company": "KALVI CAREER EDUCATION PRIVATE LIMITED",
+    "skillsets": {
+      "COD": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "DSA": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "OOD": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 2,
+        "band": "CU",
+        "raw": "2-CU"
+      },
+      "CLOUD": {
+        "required_level": 3,
+        "band": "CU",
+        "raw": "3-CU"
+      },
+      "SQL": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "SWE": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SYSD": {
+        "required_level": 3,
+        "band": "CU",
+        "raw": "3-CU"
+      },
+      "NETW": {
+        "required_level": 2,
+        "band": "CU",
+        "raw": "2-CU"
+      },
+      "OS": {
+        "required_level": 3,
+        "band": "CU",
+        "raw": "3-CU"
+      }
+    }
+  },
+  "Larsen & Toubro Infotech Limited": {
+    "company": "Larsen & Toubro Infotech Limited",
+    "skillsets": {
+      "COD": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "DSA": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "OOD": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "APTI": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "COMM": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "AI": {
+        "required_level": 3,
+        "band": "CU",
+        "raw": "3-CU"
+      },
+      "CLOUD": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SQL": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SWE": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SYSD": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "NETW": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "OS": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      }
+    }
+  },
+  "Leap Finance Private Limited": {
+    "company": "Leap Finance Private Limited",
+    "skillsets": {
+      "COD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "DSA": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "OOD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 4,
+        "band": "AP",
+        "raw": "4-AP"
+      },
+      "CLOUD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SQL": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SWE": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SYSD": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "NETW": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "OS": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      }
+    }
+  },
+  "Llama Logisol Private Limited": {
+    "company": "Llama Logisol Private Limited",
+    "skillsets": {
+      "COD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "DSA": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "OOD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 3,
+        "band": "CU",
+        "raw": "3-CU"
+      },
+      "CLOUD": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SQL": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SWE": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SYSD": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "NETW": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "OS": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      }
+    }
+  },
+  "Mitsubishi UFJ Financial Group, Inc.": {
+    "company": "Mitsubishi UFJ Financial Group, Inc.",
+    "skillsets": {
+      "COD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "DSA": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "OOD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "AI": {
+        "required_level": 3,
+        "band": "CU",
+        "raw": "3-CU"
+      },
+      "CLOUD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SQL": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SWE": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SYSD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "NETW": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "OS": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      }
+    }
+  },
+  "Motorq Technologies Private Limited": {
+    "company": "Motorq Technologies Private Limited",
+    "skillsets": {
+      "COD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "DSA": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "OOD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 4,
+        "band": "AP",
+        "raw": "4-AP"
+      },
+      "CLOUD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SQL": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SWE": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SYSD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "NETW": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "OS": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      }
+    }
+  },
+  "MoveInSync Technologies Private Limited": {
+    "company": "MoveInSync Technologies Private Limited",
+    "skillsets": {
+      "COD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "DSA": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "OOD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 4,
+        "band": "AP",
+        "raw": "4-AP"
+      },
+      "CLOUD": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SQL": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SWE": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SYSD": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "NETW": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "OS": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      }
+    }
+  },
+  "Myntra Designs Private Limited": {
+    "company": "Myntra Designs Private Limited",
+    "skillsets": {
+      "COD": {
+        "required_level": 8,
+        "band": "AS",
+        "raw": "8-AS"
+      },
+      "DSA": {
+        "required_level": 8,
+        "band": "AS",
+        "raw": "8-AS"
+      },
+      "OOD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "CLOUD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SQL": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SWE": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SYSD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "NETW": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "OS": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      }
+    }
+  },
+  "Oracle Financial Services Software Limited": {
+    "company": "Oracle Financial Services Software Limited",
+    "skillsets": {
+      "COD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "DSA": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "OOD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "CLOUD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SQL": {
+        "required_level": 7,
+        "band": "EV",
+        "raw": "7-EV"
+      },
+      "SWE": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SYSD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "NETW": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "OS": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      }
+    }
+  },
+  "PhysicsWallah Private Limited": {
+    "company": "PhysicsWallah Private Limited",
+    "skillsets": {
+      "COD": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "DSA": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "OOD": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 3,
+        "band": "CU",
+        "raw": "3-CU"
+      },
+      "CLOUD": {
+        "required_level": 4,
+        "band": "AP",
+        "raw": "4-AP"
+      },
+      "SQL": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SWE": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "SYSD": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "NETW": {
+        "required_level": 3,
+        "band": "CU",
+        "raw": "3-CU"
+      },
+      "OS": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      }
+    }
+  },
+  "SAP Labs India Private Limited": {
+    "company": "SAP Labs India Private Limited",
+    "skillsets": {
+      "COD": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "DSA": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "OOD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "COMM": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "AI": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "CLOUD": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SQL": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SWE": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SYSD": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "NETW": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "OS": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      }
+    }
+  },
+  "Space Exploration Technologies Corp.": {
+    "company": "Space Exploration Technologies Corp.",
+    "skillsets": {
+      "COD": {
+        "required_level": 8,
+        "band": "AS",
+        "raw": "8-AS"
+      },
+      "DSA": {
+        "required_level": 8,
+        "band": "AS",
+        "raw": "8-AS"
+      },
+      "OOD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "APTI": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "CLOUD": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SQL": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "SWE": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SYSD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "NETW": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "OS": {
+        "required_level": 8,
+        "band": "EV",
+        "raw": "8-EV"
+      }
+    }
+  },
+  "Tata Consultancy Services Limited": {
+    "company": "Tata Consultancy Services Limited",
+    "skillsets": {
+      "COD": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "DSA": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "OOD": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "APTI": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "COMM": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "AI": {
+        "required_level": 3,
+        "band": "CU",
+        "raw": "3-CU"
+      },
+      "CLOUD": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "SQL": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "SWE": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SYSD": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "NETW": {
+        "required_level": 3,
+        "band": "CU",
+        "raw": "3-CU"
+      },
+      "OS": {
+        "required_level": 3,
+        "band": "CU",
+        "raw": "3-CU"
+      }
+    }
+  },
+  "The Bank of New York Mellon Corporation": {
+    "company": "The Bank of New York Mellon Corporation",
+    "skillsets": {
+      "COD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "DSA": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "OOD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "AI": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "CLOUD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SQL": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SWE": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SYSD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "NETW": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "OS": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      }
+    }
+  },
+  "Adobe Inc.": {
+    "company": "Adobe Inc.",
+    "skillsets": {
+      "COD": {
+        "required_level": 8,
+        "band": "AS",
+        "raw": "8-AS"
+      },
+      "DSA": {
+        "required_level": 8,
+        "band": "AS",
+        "raw": "8-AS"
+      },
+      "OOD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "CLOUD": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SQL": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SWE": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SYSD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "NETW": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "OS": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      }
+    }
+  },
+  "Airbus SE": {
+    "company": "Airbus SE",
+    "skillsets": {
+      "COD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "DSA": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "OOD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 3,
+        "band": "CU",
+        "raw": "3-CU"
+      },
+      "CLOUD": {
+        "required_level": 4,
+        "band": "AP",
+        "raw": "4-AP"
+      },
+      "SQL": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "SWE": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SYSD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "NETW": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "OS": {
+        "required_level": 8,
+        "band": "EV",
+        "raw": "8-EV"
+      }
+    }
+  },
+  "Akamai Technologies India Pvt. Ltd.": {
+    "company": "Akamai Technologies India Pvt. Ltd.",
+    "skillsets": {
+      "COD": {
+        "required_level": 8,
+        "band": "AS",
+        "raw": "8-AS"
+      },
+      "DSA": {
+        "required_level": 8,
+        "band": "AS",
+        "raw": "8-AS"
+      },
+      "OOD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "CLOUD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SQL": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SWE": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SYSD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "NETW": {
+        "required_level": 8,
+        "band": "EV",
+        "raw": "8-EV"
+      },
+      "OS": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      }
+    }
+  },
+  "Amadeus IT Group": {
+    "company": "Amadeus IT Group",
+    "skillsets": {
+      "COD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "DSA": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "OOD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "CLOUD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SQL": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SWE": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SYSD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "NETW": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "OS": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      }
+    }
+  },
+  "Amazon.com, Inc.": {
+    "company": "Amazon.com, Inc.",
+    "skillsets": {
+      "COD": {
+        "required_level": 8,
+        "band": "EV",
+        "raw": "8-EV"
+      },
+      "DSA": {
+        "required_level": 8,
+        "band": "EV",
+        "raw": "8-EV"
+      },
+      "OOD": {
+        "required_level": 7,
+        "band": "EV",
+        "raw": "7-EV"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 8,
+        "band": "EV",
+        "raw": "8-EV"
+      },
+      "AI": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "CLOUD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SQL": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SWE": {
+        "required_level": 7,
+        "band": "EV",
+        "raw": "7-EV"
+      },
+      "SYSD": {
+        "required_level": 7,
+        "band": "EV",
+        "raw": "7-EV"
+      },
+      "NETW": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "OS": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      }
+    }
+  },
+  "Apple Inc.": {
+    "company": "Apple Inc.",
+    "skillsets": {
+      "COD": {
+        "required_level": 8,
+        "band": "AS",
+        "raw": "8-AS"
+      },
+      "DSA": {
+        "required_level": 8,
+        "band": "AS",
+        "raw": "8-AS"
+      },
+      "OOD": {
+        "required_level": 8,
+        "band": "EV",
+        "raw": "8-EV"
+      },
+      "APTI": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "COMM": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "AI": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "CLOUD": {
+        "required_level": 4,
+        "band": "AP",
+        "raw": "4-AP"
+      },
+      "SQL": {
+        "required_level": 4,
+        "band": "AP",
+        "raw": "4-AP"
+      },
+      "SWE": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SYSD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "NETW": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "OS": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      }
+    }
+  },
+  "Atlassian Corporation": {
+    "company": "Atlassian Corporation",
+    "skillsets": {
+      "COD": {
+        "required_level": 8,
+        "band": "AS",
+        "raw": "8-AS"
+      },
+      "DSA": {
+        "required_level": 8,
+        "band": "AS",
+        "raw": "8-AS"
+      },
+      "OOD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "AI": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "CLOUD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SQL": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SWE": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SYSD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "NETW": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "OS": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      }
+    }
+  },
+  "Autodesk": {
+    "company": "Autodesk",
+    "skillsets": {
+      "COD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "DSA": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "OOD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "CLOUD": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SQL": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SWE": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SYSD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "NETW": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "OS": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      }
+    }
+  },
+  "Bain Capability Network": {
+    "company": "Bain Capability Network",
+    "skillsets": {
+      "COD": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "DSA": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "OOD": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "APTI": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "COMM": {
+        "required_level": 8,
+        "band": "AS",
+        "raw": "8-AS"
+      },
+      "AI": {
+        "required_level": 3,
+        "band": "CU",
+        "raw": "3-CU"
+      },
+      "CLOUD": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "SQL": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SWE": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SYSD": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "NETW": {
+        "required_level": 3,
+        "band": "CU",
+        "raw": "3-CU"
+      },
+      "OS": {
+        "required_level": 3,
+        "band": "CU",
+        "raw": "3-CU"
+      }
+    }
+  },
+  "Bajaj Finserv Health Ltd.": {
+    "company": "Bajaj Finserv Health Ltd.",
+    "skillsets": {
+      "COD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "DSA": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "OOD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 4,
+        "band": "AP",
+        "raw": "4-AP"
+      },
+      "CLOUD": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SQL": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SWE": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SYSD": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "NETW": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "OS": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      }
+    }
+  },
+  "BT Group plc": {
+    "company": "BT Group plc",
+    "skillsets": {
+      "COD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "DSA": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "OOD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 3,
+        "band": "CU",
+        "raw": "3-CU"
+      },
+      "CLOUD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SQL": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SWE": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SYSD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "NETW": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "OS": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      }
+    }
+  },
+  "Byju\u2019s": {
+    "company": "Byju\u2019s",
+    "skillsets": {
+      "COD": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "DSA": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "OOD": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 3,
+        "band": "CU",
+        "raw": "3-CU"
+      },
+      "CLOUD": {
+        "required_level": 4,
+        "band": "AP",
+        "raw": "4-AP"
+      },
+      "SQL": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SWE": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "SYSD": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "NETW": {
+        "required_level": 3,
+        "band": "CU",
+        "raw": "3-CU"
+      },
+      "OS": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      }
+    }
+  },
+  "Capgemini": {
+    "company": "Capgemini",
+    "skillsets": {
+      "COD": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "DSA": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "OOD": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "APTI": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "COMM": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "AI": {
+        "required_level": 3,
+        "band": "CU",
+        "raw": "3-CU"
+      },
+      "CLOUD": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SQL": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SWE": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SYSD": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "NETW": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "OS": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      }
+    }
+  },
+  "Cisco Systems, Inc.": {
+    "company": "Cisco Systems, Inc.",
+    "skillsets": {
+      "COD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "DSA": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "OOD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "CLOUD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SQL": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "SWE": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SYSD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "NETW": {
+        "required_level": 8,
+        "band": "EV",
+        "raw": "8-EV"
+      },
+      "OS": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      }
+    }
+  },
+  "Citigroup Inc.": {
+    "company": "Citigroup Inc.",
+    "skillsets": {
+      "COD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "DSA": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "OOD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "AI": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "CLOUD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SQL": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SWE": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SYSD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "NETW": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "OS": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      }
+    }
+  },
+  "Cleartrip": {
+    "company": "Cleartrip",
+    "skillsets": {
+      "COD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "DSA": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "OOD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 4,
+        "band": "AP",
+        "raw": "4-AP"
+      },
+      "CLOUD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SQL": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SWE": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SYSD": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "NETW": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "OS": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      }
+    }
+  },
+  "CME Group Inc.": {
+    "company": "CME Group Inc.",
+    "skillsets": {
+      "COD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "DSA": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "OOD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "CLOUD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SQL": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SWE": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SYSD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "NETW": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "OS": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      }
+    }
+  },
+  "Commonwealth Bank of Australia": {
+    "company": "Commonwealth Bank of Australia",
+    "skillsets": {
+      "COD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "DSA": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "OOD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "AI": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "CLOUD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SQL": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SWE": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SYSD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "NETW": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "OS": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      }
+    }
+  },
+  "Concentrix Corporation": {
+    "company": "Concentrix Corporation",
+    "skillsets": {
+      "COD": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "DSA": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "OOD": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "APTI": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "COMM": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "AI": {
+        "required_level": 2,
+        "band": "CU",
+        "raw": "2-CU"
+      },
+      "CLOUD": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "SQL": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "SWE": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SYSD": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "NETW": {
+        "required_level": 3,
+        "band": "CU",
+        "raw": "3-CU"
+      },
+      "OS": {
+        "required_level": 3,
+        "band": "CU",
+        "raw": "3-CU"
+      }
+    }
+  },
+  "Consilio LLC": {
+    "company": "Consilio LLC",
+    "skillsets": {
+      "COD": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "DSA": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "OOD": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 3,
+        "band": "CU",
+        "raw": "3-CU"
+      },
+      "CLOUD": {
+        "required_level": 4,
+        "band": "AP",
+        "raw": "4-AP"
+      },
+      "SQL": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SWE": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SYSD": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "NETW": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "OS": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      }
+    }
+  },
+  "DeepMind": {
+    "company": "DeepMind",
+    "skillsets": {
+      "COD": {
+        "required_level": 9,
+        "band": "CR",
+        "raw": "9-CR"
+      },
+      "DSA": {
+        "required_level": 9,
+        "band": "CR",
+        "raw": "9-CR"
+      },
+      "OOD": {
+        "required_level": 8,
+        "band": "EV",
+        "raw": "8-EV"
+      },
+      "APTI": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "COMM": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "AI": {
+        "required_level": 9,
+        "band": "CR",
+        "raw": "9-CR"
+      },
+      "CLOUD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SQL": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SWE": {
+        "required_level": 8,
+        "band": "EV",
+        "raw": "8-EV"
+      },
+      "SYSD": {
+        "required_level": 8,
+        "band": "EV",
+        "raw": "8-EV"
+      },
+      "NETW": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "OS": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      }
+    }
+  },
+  "Dell Technologies Inc.": {
+    "company": "Dell Technologies Inc.",
+    "skillsets": {
+      "COD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "DSA": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "OOD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "CLOUD": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SQL": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SWE": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SYSD": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "NETW": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "OS": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      }
+    }
+  },
+  "DXC Technology Company": {
+    "company": "DXC Technology Company",
+    "skillsets": {
+      "COD": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "DSA": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "OOD": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 3,
+        "band": "CU",
+        "raw": "3-CU"
+      },
+      "CLOUD": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SQL": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SWE": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SYSD": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "NETW": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "OS": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      }
+    }
+  },
+  "Electronic Arts": {
+    "company": "Electronic Arts",
+    "skillsets": {
+      "COD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "DSA": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "OOD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 4,
+        "band": "AP",
+        "raw": "4-AP"
+      },
+      "CLOUD": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SQL": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "SWE": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SYSD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "NETW": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "OS": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      }
+    }
+  },
+  "Fidelity Investments": {
+    "company": "Fidelity Investments",
+    "skillsets": {
+      "COD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "DSA": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "OOD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "AI": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "CLOUD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SQL": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SWE": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SYSD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "NETW": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "OS": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      }
+    }
+  },
+  "Freshworks Inc.": {
+    "company": "Freshworks Inc.",
+    "skillsets": {
+      "COD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "DSA": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "OOD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "AI": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "CLOUD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SQL": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SWE": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SYSD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "NETW": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "OS": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      }
+    }
+  },
+  "Genpact Ltd.": {
+    "company": "Genpact Ltd.",
+    "skillsets": {
+      "COD": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "DSA": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "OOD": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "APTI": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "COMM": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "AI": {
+        "required_level": 3,
+        "band": "CU",
+        "raw": "3-CU"
+      },
+      "CLOUD": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SQL": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SWE": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SYSD": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "NETW": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "OS": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      }
+    }
+  },
+  "Groww Invest Tech Pvt. Ltd.": {
+    "company": "Groww Invest Tech Pvt. Ltd.",
+    "skillsets": {
+      "COD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "DSA": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "OOD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "CLOUD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SQL": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SWE": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SYSD": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "NETW": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "OS": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      }
+    }
+  },
+  "Guidewire Software, Inc.": {
+    "company": "Guidewire Software, Inc.",
+    "skillsets": {
+      "COD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "DSA": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "OOD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "CLOUD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SQL": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SWE": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SYSD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "NETW": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "OS": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      }
+    }
+  },
+  "HCL Technologies Limited": {
+    "company": "HCL Technologies Limited",
+    "skillsets": {
+      "COD": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "DSA": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "OOD": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "APTI": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "COMM": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "AI": {
+        "required_level": 3,
+        "band": "CU",
+        "raw": "3-CU"
+      },
+      "CLOUD": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SQL": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SWE": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SYSD": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "NETW": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "OS": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      }
+    }
+  },
+  "HP Inc.": {
+    "company": "HP Inc.",
+    "skillsets": {
+      "COD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "DSA": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "OOD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 3,
+        "band": "CU",
+        "raw": "3-CU"
+      },
+      "CLOUD": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SQL": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SWE": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SYSD": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "NETW": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "OS": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      }
+    }
+  },
+  "Infosys Limited": {
+    "company": "Infosys Limited",
+    "skillsets": {
+      "COD": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "DSA": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "OOD": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "APTI": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "COMM": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "AI": {
+        "required_level": 3,
+        "band": "CU",
+        "raw": "3-CU"
+      },
+      "CLOUD": {
+        "required_level": 4,
+        "band": "AP",
+        "raw": "4-AP"
+      },
+      "SQL": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SWE": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "SYSD": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "NETW": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "OS": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      }
+    }
+  },
+  "JPMorgan Chase & Co.": {
+    "company": "JPMorgan Chase & Co.",
+    "skillsets": {
+      "COD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "DSA": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "OOD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "AI": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "CLOUD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SQL": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SWE": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SYSD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "NETW": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "OS": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      }
+    }
+  },
+  "Koninklijke Philips N.V.": {
+    "company": "Koninklijke Philips N.V.",
+    "skillsets": {
+      "COD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "DSA": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "OOD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "CLOUD": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SQL": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SWE": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SYSD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "NETW": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "OS": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      }
+    }
+  },
+  "Microsoft Corporation": {
+    "company": "Microsoft Corporation",
+    "skillsets": {
+      "COD": {
+        "required_level": 8,
+        "band": "AS",
+        "raw": "8-AS"
+      },
+      "DSA": {
+        "required_level": 8,
+        "band": "AS",
+        "raw": "8-AS"
+      },
+      "OOD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "AI": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "CLOUD": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SQL": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SWE": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SYSD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "NETW": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "OS": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      }
+    }
+  },
+  "MintAir Corp": {
+    "company": "MintAir Corp",
+    "skillsets": {
+      "COD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "DSA": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "OOD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 3,
+        "band": "CU",
+        "raw": "3-CU"
+      },
+      "CLOUD": {
+        "required_level": 4,
+        "band": "AP",
+        "raw": "4-AP"
+      },
+      "SQL": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "SWE": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SYSD": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "NETW": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "OS": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      }
+    }
+  },
+  "Morgan Stanley": {
+    "company": "Morgan Stanley",
+    "skillsets": {
+      "COD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "DSA": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "OOD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "AI": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "CLOUD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SQL": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SWE": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SYSD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "NETW": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "OS": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      }
+    }
+  },
+  "NielsenIQ": {
+    "company": "NielsenIQ",
+    "skillsets": {
+      "COD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "DSA": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "OOD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 4,
+        "band": "AP",
+        "raw": "4-AP"
+      },
+      "CLOUD": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SQL": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SWE": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SYSD": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "NETW": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "OS": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      }
+    }
+  },
+  "NTT DATA": {
+    "company": "NTT DATA",
+    "skillsets": {
+      "COD": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "DSA": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "OOD": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "APTI": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "COMM": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "AI": {
+        "required_level": 3,
+        "band": "CU",
+        "raw": "3-CU"
+      },
+      "CLOUD": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SQL": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SWE": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SYSD": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "NETW": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "OS": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      }
+    }
+  },
+  "Nurix Therapeutics, Inc.": {
+    "company": "Nurix Therapeutics, Inc.",
+    "skillsets": {
+      "COD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "DSA": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "OOD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "CLOUD": {
+        "required_level": 4,
+        "band": "AP",
+        "raw": "4-AP"
+      },
+      "SQL": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SWE": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SYSD": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "NETW": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "OS": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      }
+    }
+  },
+  "Nutanix, Inc.": {
+    "company": "Nutanix, Inc.",
+    "skillsets": {
+      "COD": {
+        "required_level": 8,
+        "band": "AS",
+        "raw": "8-AS"
+      },
+      "DSA": {
+        "required_level": 8,
+        "band": "AS",
+        "raw": "8-AS"
+      },
+      "OOD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "CLOUD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SQL": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SWE": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SYSD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "NETW": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "OS": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      }
+    }
+  },
+  "NVIDIA Corporation": {
+    "company": "NVIDIA Corporation",
+    "skillsets": {
+      "COD": {
+        "required_level": 8,
+        "band": "AS",
+        "raw": "8-AS"
+      },
+      "DSA": {
+        "required_level": 9,
+        "band": "EV",
+        "raw": "9-EV"
+      },
+      "OOD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "APTI": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "CLOUD": {
+        "required_level": 4,
+        "band": "AP",
+        "raw": "4-AP"
+      },
+      "SQL": {
+        "required_level": 4,
+        "band": "AP",
+        "raw": "4-AP"
+      },
+      "SWE": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SYSD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "NETW": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "OS": {
+        "required_level": 8,
+        "band": "EV",
+        "raw": "8-EV"
+      }
+    }
+  },
+  "OpenAI, Inc.": {
+    "company": "OpenAI, Inc.",
+    "skillsets": {
+      "COD": {
+        "required_level": 9,
+        "band": "CR",
+        "raw": "9-CR"
+      },
+      "DSA": {
+        "required_level": 9,
+        "band": "CR",
+        "raw": "9-CR"
+      },
+      "OOD": {
+        "required_level": 8,
+        "band": "EV",
+        "raw": "8-EV"
+      },
+      "APTI": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "COMM": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "AI": {
+        "required_level": 9,
+        "band": "CR",
+        "raw": "9-CR"
+      },
+      "CLOUD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SQL": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SWE": {
+        "required_level": 8,
+        "band": "EV",
+        "raw": "8-EV"
+      },
+      "SYSD": {
+        "required_level": 8,
+        "band": "EV",
+        "raw": "8-EV"
+      },
+      "NETW": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "OS": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      }
+    }
+  },
+  "Optum": {
+    "company": "Optum",
+    "skillsets": {
+      "COD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "DSA": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "OOD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "AI": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "CLOUD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SQL": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SWE": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SYSD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "NETW": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "OS": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      }
+    }
+  },
+  "Palantir Technologies": {
+    "company": "Palantir Technologies",
+    "skillsets": {
+      "COD": {
+        "required_level": 9,
+        "band": "EV",
+        "raw": "9-EV"
+      },
+      "DSA": {
+        "required_level": 9,
+        "band": "EV",
+        "raw": "9-EV"
+      },
+      "OOD": {
+        "required_level": 7,
+        "band": "EV",
+        "raw": "7-EV"
+      },
+      "APTI": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "COMM": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "AI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "CLOUD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SQL": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SWE": {
+        "required_level": 8,
+        "band": "EV",
+        "raw": "8-EV"
+      },
+      "SYSD": {
+        "required_level": 7,
+        "band": "EV",
+        "raw": "7-EV"
+      },
+      "NETW": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "OS": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      }
+    }
+  },
+  "PayPal Holdings, Inc.": {
+    "company": "PayPal Holdings, Inc.",
+    "skillsets": {
+      "COD": {
+        "required_level": 8,
+        "band": "AS",
+        "raw": "8-AS"
+      },
+      "DSA": {
+        "required_level": 8,
+        "band": "AS",
+        "raw": "8-AS"
+      },
+      "OOD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "CLOUD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SQL": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SWE": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SYSD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "NETW": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "OS": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      }
+    }
+  },
+  "Proactively Inc.": {
+    "company": "Proactively Inc.",
+    "skillsets": {
+      "COD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "DSA": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "OOD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 4,
+        "band": "AP",
+        "raw": "4-AP"
+      },
+      "CLOUD": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SQL": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SWE": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SYSD": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "NETW": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "OS": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      }
+    }
+  },
+  "Robert Bosch GmbH": {
+    "company": "Robert Bosch GmbH",
+    "skillsets": {
+      "COD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "DSA": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "OOD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 3,
+        "band": "CU",
+        "raw": "3-CU"
+      },
+      "CLOUD": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SQL": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "SWE": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SYSD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "NETW": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "OS": {
+        "required_level": 8,
+        "band": "EV",
+        "raw": "8-EV"
+      }
+    }
+  },
+  "Samsung PRISM": {
+    "company": "Samsung PRISM",
+    "skillsets": {
+      "COD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "DSA": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "OOD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "CLOUD": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SQL": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "SWE": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SYSD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "NETW": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "OS": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      }
+    }
+  },
+  "Schneider Electric": {
+    "company": "Schneider Electric",
+    "skillsets": {
+      "COD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "DSA": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "OOD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 3,
+        "band": "CU",
+        "raw": "3-CU"
+      },
+      "CLOUD": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SQL": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SWE": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SYSD": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "NETW": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "OS": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      }
+    }
+  },
+  "ServiceNow, Inc.": {
+    "company": "ServiceNow, Inc.",
+    "skillsets": {
+      "COD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "DSA": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "OOD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "COMM": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "AI": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "CLOUD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SQL": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SWE": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SYSD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "NETW": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "OS": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      }
+    }
+  },
+  "Skyhigh Security": {
+    "company": "Skyhigh Security",
+    "skillsets": {
+      "COD": {
+        "required_level": 8,
+        "band": "AS",
+        "raw": "8-AS"
+      },
+      "DSA": {
+        "required_level": 8,
+        "band": "AS",
+        "raw": "8-AS"
+      },
+      "OOD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "CLOUD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SQL": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SWE": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SYSD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "NETW": {
+        "required_level": 8,
+        "band": "EV",
+        "raw": "8-EV"
+      },
+      "OS": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      }
+    }
+  },
+  "Snowflake Inc.": {
+    "company": "Snowflake Inc.",
+    "skillsets": {
+      "COD": {
+        "required_level": 9,
+        "band": "EV",
+        "raw": "9-EV"
+      },
+      "DSA": {
+        "required_level": 9,
+        "band": "EV",
+        "raw": "9-EV"
+      },
+      "OOD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "CLOUD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SQL": {
+        "required_level": 8,
+        "band": "EV",
+        "raw": "8-EV"
+      },
+      "SWE": {
+        "required_level": 8,
+        "band": "AS",
+        "raw": "8-AS"
+      },
+      "SYSD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "NETW": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "OS": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      }
+    }
+  },
+  "Swiggy Limited": {
+    "company": "Swiggy Limited",
+    "skillsets": {
+      "COD": {
+        "required_level": 8,
+        "band": "AS",
+        "raw": "8-AS"
+      },
+      "DSA": {
+        "required_level": 8,
+        "band": "AS",
+        "raw": "8-AS"
+      },
+      "OOD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "CLOUD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SQL": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SWE": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SYSD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "NETW": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "OS": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      }
+    }
+  },
+  "Tredence Inc.": {
+    "company": "Tredence Inc.",
+    "skillsets": {
+      "COD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "DSA": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "OOD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "CLOUD": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SQL": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SWE": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SYSD": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "NETW": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "OS": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      }
+    }
+  },
+  "Uber Technologies, Inc.": {
+    "company": "Uber Technologies, Inc.",
+    "skillsets": {
+      "COD": {
+        "required_level": 9,
+        "band": "EV",
+        "raw": "9-EV"
+      },
+      "DSA": {
+        "required_level": 9,
+        "band": "EV",
+        "raw": "9-EV"
+      },
+      "OOD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "CLOUD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SQL": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SWE": {
+        "required_level": 8,
+        "band": "EV",
+        "raw": "8-EV"
+      },
+      "SYSD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "NETW": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "OS": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      }
+    }
+  },
+  "Udemy, Inc.": {
+    "company": "Udemy, Inc.",
+    "skillsets": {
+      "COD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "DSA": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "OOD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "AI": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "CLOUD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SQL": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SWE": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SYSD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "NETW": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "OS": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      }
+    }
+  },
+  "Virtusa Corporation": {
+    "company": "Virtusa Corporation",
+    "skillsets": {
+      "COD": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "DSA": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "OOD": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "APTI": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "COMM": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "AI": {
+        "required_level": 3,
+        "band": "CU",
+        "raw": "3-CU"
+      },
+      "CLOUD": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SQL": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SWE": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SYSD": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "NETW": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "OS": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      }
+    }
+  },
+  "Zepto Technologies Private Limited": {
+    "company": "Zepto Technologies Private Limited",
+    "skillsets": {
+      "COD": {
+        "required_level": 8,
+        "band": "AS",
+        "raw": "8-AS"
+      },
+      "DSA": {
+        "required_level": 8,
+        "band": "AS",
+        "raw": "8-AS"
+      },
+      "OOD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "CLOUD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SQL": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SWE": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SYSD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "NETW": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "OS": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      }
+    }
+  },
+  "Zerodha Broking Limited": {
+    "company": "Zerodha Broking Limited",
+    "skillsets": {
+      "COD": {
+        "required_level": 8,
+        "band": "AS",
+        "raw": "8-AS"
+      },
+      "DSA": {
+        "required_level": 8,
+        "band": "AS",
+        "raw": "8-AS"
+      },
+      "OOD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "CLOUD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SQL": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SWE": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SYSD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "NETW": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "OS": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      }
+    }
+  },
+  "Volvo Group": {
+    "company": "Volvo Group",
+    "skillsets": {
+      "COD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "DSA": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "OOD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 3,
+        "band": "CU",
+        "raw": "3-CU"
+      },
+      "CLOUD": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SQL": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "SWE": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SYSD": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "NETW": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "OS": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      }
+    }
+  },
+  "Walmart Inc.": {
+    "company": "Walmart Inc.",
+    "skillsets": {
+      "COD": {
+        "required_level": 8,
+        "band": "AS",
+        "raw": "8-AS"
+      },
+      "DSA": {
+        "required_level": 8,
+        "band": "AS",
+        "raw": "8-AS"
+      },
+      "OOD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "CLOUD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SQL": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SWE": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SYSD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "NETW": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "OS": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      }
+    }
+  },
+  "Warner Bros. Discovery, Inc.": {
+    "company": "Warner Bros. Discovery, Inc.",
+    "skillsets": {
+      "COD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "DSA": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "OOD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 4,
+        "band": "AP",
+        "raw": "4-AP"
+      },
+      "CLOUD": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SQL": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SWE": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SYSD": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "NETW": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "OS": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      }
+    }
+  },
+  "Wells Fargo & Company": {
+    "company": "Wells Fargo & Company",
+    "skillsets": {
+      "COD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "DSA": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "OOD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "AI": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "CLOUD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SQL": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SWE": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "SYSD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "NETW": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "OS": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      }
+    }
+  },
+  "Xperi Inc.": {
+    "company": "Xperi Inc.",
+    "skillsets": {
+      "COD": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "DSA": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "OOD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "APTI": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "COMM": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "AI": {
+        "required_level": 3,
+        "band": "CU",
+        "raw": "3-CU"
+      },
+      "CLOUD": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SQL": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "SWE": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SYSD": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "NETW": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "OS": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      }
+    }
+  },
+  "ZS Associates, Inc.": {
+    "company": "ZS Associates, Inc.",
+    "skillsets": {
+      "COD": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "DSA": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "OOD": {
+        "required_level": 6,
+        "band": "AP",
+        "raw": "6-AP"
+      },
+      "APTI": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "COMM": {
+        "required_level": 7,
+        "band": "AS",
+        "raw": "7-AS"
+      },
+      "AI": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "CLOUD": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SQL": {
+        "required_level": 5,
+        "band": "AP",
+        "raw": "5-AP"
+      },
+      "SWE": {
+        "required_level": 6,
+        "band": "AS",
+        "raw": "6-AS"
+      },
+      "SYSD": {
+        "required_level": 5,
+        "band": "CU",
+        "raw": "5-CU"
+      },
+      "NETW": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      },
+      "OS": {
+        "required_level": 4,
+        "band": "CU",
+        "raw": "4-CU"
+      }
+    }
+  }
+}

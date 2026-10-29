@@ -1,0 +1,8 @@
+# Optional extra for LLM skill extraction (the "Use LLM extraction (slower)"
+# sidebar checkbox, core/llm_extract.py). The app is fully functional without
+# it — parse_resume() falls back to the keyword extractor on any failure.
+#
+# Note: python-dotenv and openai moved to requirements.txt, because core/llm.py
+# imports dotenv at module load and the Groq advisor layer needs the openai
+# client, so the app cannot start without them.
+anthropic>=0.40

@@ -1,0 +1,10 @@
+streamlit>=1.30
+pypdf>=4.0
+python-docx>=1.1
+pandas>=2.0
+requests>=2.31
+
+# Imported at module load by core/llm.py, which app.py imports at line 14 —
+# so these are hard requirements for the app to start, not optional extras.
+python-dotenv>=1.0
+openai>=1.30

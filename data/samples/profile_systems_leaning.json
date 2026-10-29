@@ -1,0 +1,31 @@
+{
+  "name": "Rohan Verma",
+  "email": "rohan.verma@example.com",
+  "education": "B.Tech Computer Science, NIT Trichy, 2026",
+  "skills": [
+    {"skill_name": "Python", "category_code": "COD", "evidence": "self-reported", "confidence": "high"},
+    {"skill_name": "C++", "category_code": "COD", "evidence": "self-reported", "confidence": "high"},
+    {"skill_name": "Data Structures", "category_code": "DSA", "evidence": "self-reported", "confidence": "high"},
+    {"skill_name": "Algorithms", "category_code": "DSA", "evidence": "self-reported", "confidence": "high"},
+    {"skill_name": "Dynamic Programming", "category_code": "DSA", "evidence": "self-reported", "confidence": "medium"},
+    {"skill_name": "Linux", "category_code": "OS", "evidence": "self-reported", "confidence": "high"},
+    {"skill_name": "Multithreading", "category_code": "OS", "evidence": "self-reported", "confidence": "high"},
+    {"skill_name": "Process Scheduling", "category_code": "OS", "evidence": "self-reported", "confidence": "medium"},
+    {"skill_name": "Networking", "category_code": "NETW", "evidence": "self-reported", "confidence": "high"},
+    {"skill_name": "TCP", "category_code": "NETW", "evidence": "self-reported", "confidence": "medium"},
+    {"skill_name": "Socket Programming", "category_code": "NETW", "evidence": "self-reported", "confidence": "medium"},
+    {"skill_name": "Git", "category_code": "SWE", "evidence": "self-reported", "confidence": "medium"},
+    {"skill_name": "Object Oriented Programming", "category_code": "OOD", "evidence": "self-reported", "confidence": "medium"}
+  ],
+  "hackathons": [
+    "Built a distributed file system prototype at the campus OS hackathon"
+  ],
+  "internships": [
+    "Systems Engineering Intern at NetCore Systems — worked on TCP socket programming and Linux kernel modules"
+  ],
+  "certifications": [
+    "Certified Linux Administrator"
+  ],
+  "preferred_roles": ["Systems Engineer", "Backend Engineer"],
+  "cv_file": "data/resumes/Rohan Verma.pdf"
+}

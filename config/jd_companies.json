@@ -1,0 +1,9 @@
+{
+  "_comment": "JD filename stem -> exact company name in data/talent_check_company_skillsets.json. Needed because guess_company_and_role falls back to the filename stem, and 'Google LLC' is not the dataset's key for Google.",
+  "Google LLC - Data Scientist": "Google LLC (Subsidiary of Alphabet Inc.)",
+  "Google LLC - Software Engineer": "Google LLC (Subsidiary of Alphabet Inc.)",
+  "Microsoft - Data Analyst": "Microsoft Corporation",
+  "Microsoft - Software Engineer": "Microsoft Corporation",
+  "Oracle - Application Support Analyst": "Oracle Financial Services Software Limited",
+  "Oracle - Associate Software Engineer": "Oracle Financial Services Software Limited"
+}

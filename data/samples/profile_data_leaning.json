@@ -1,0 +1,28 @@
+{
+  "name": "Priya Menon",
+  "email": "priya.menon@example.com",
+  "education": "B.Tech Information Technology, VIT Vellore, 2026",
+  "skills": [
+    {"skill_name": "SQL", "category_code": "SQL", "evidence": "self-reported", "confidence": "high"},
+    {"skill_name": "PostgreSQL", "category_code": "SQL", "evidence": "self-reported", "confidence": "medium"},
+    {"skill_name": "Data Modeling", "category_code": "SQL", "evidence": "self-reported", "confidence": "medium"},
+    {"skill_name": "Power BI", "category_code": "SQL", "evidence": "self-reported", "confidence": "high"},
+    {"skill_name": "Machine Learning", "category_code": "AI", "evidence": "self-reported", "confidence": "high"},
+    {"skill_name": "NLP", "category_code": "AI", "evidence": "self-reported", "confidence": "medium"},
+    {"skill_name": "Prompt Engineering", "category_code": "AI", "evidence": "self-reported", "confidence": "medium"},
+    {"skill_name": "Analytical", "category_code": "APTI", "evidence": "self-reported", "confidence": "high"},
+    {"skill_name": "Quantitative", "category_code": "APTI", "evidence": "self-reported", "confidence": "medium"},
+    {"skill_name": "Communication", "category_code": "COMM", "evidence": "self-reported", "confidence": "medium"}
+  ],
+  "hackathons": [
+    "Built a machine learning dashboard for a data hackathon using Power BI and Python"
+  ],
+  "internships": [
+    "Data Analyst Intern at Finlytics — wrote SQL queries and built dashboards for stakeholder communication"
+  ],
+  "certifications": [
+    "Google Data Analytics Certificate"
+  ],
+  "preferred_roles": ["Data Analyst", "Data Scientist"],
+  "cv_file": "data/resumes/Priya Menon.pdf"
+}
